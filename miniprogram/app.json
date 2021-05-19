@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/map/map"
+  ],
+  "window": {
+    "backgroundColor": "#d9362c",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d9362c",
+    "navigationBarTitleText":"Ubuntut",
+    "navigationBarTextStyle": "white"
+  },
+  
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "permission": {
+      "scope.userLocation" : {
+         "desc": "Your position!"
+      }
+  }
+}

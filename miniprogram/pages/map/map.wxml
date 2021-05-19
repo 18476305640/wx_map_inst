@@ -1,0 +1,1 @@
+<map id="map"  bindcontroltap="BackToGps" bindregionchange="seeChange" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" controls="{{controls}}" style="width: {{mapw}}; height: {{maph}};" scale="{{scale}}" show-location></map>
